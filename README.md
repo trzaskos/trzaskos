@@ -29,4 +29,4 @@ Software development, system architecture, open-source 🌐
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trzaskos&layout=compact&theme=radical)
 
 #### -> Support my work ☕
-<a href="https://www.buymeacoffee.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"></a>
+<a href="https://www.buymeacoffee.com/trzaskos" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"></a>
